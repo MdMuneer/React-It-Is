@@ -1,4 +1,4 @@
-//start
+
 import { render } from "react-dom";
 import SearchParams from "./SearchParams";
 
@@ -16,4 +16,3 @@ const App = () => {
 render(<App />, document.getElementById("root"));
 
 
-//End
