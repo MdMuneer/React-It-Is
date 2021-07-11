@@ -1,2 +1,2 @@
 # React-It-Is
-React projects
+React Projects
